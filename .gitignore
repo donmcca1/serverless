@@ -1,0 +1,7 @@
+.bsp
+.idea
+target
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+.backup
